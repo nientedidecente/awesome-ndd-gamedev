@@ -1,4 +1,4 @@
-# What is this
+# What is this 
 This list contains plenty of resources regarding projects, libraries, assets, tutorials and other useful or recommended stuff by the NDD community.
 Typically, you can find them by searching through our Discord channel, but I think that a general, grouped by category list is even more useful.  
 
