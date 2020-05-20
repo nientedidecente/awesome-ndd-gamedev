@@ -13,6 +13,7 @@ If you're external to this organization and want to add your own resources, just
 - [Complete beginners JS Course - Zenva](https://academy.zenva.com/course/the-complete-beginners-javascript-course/) - An introductive JS course, oriented on 2D Canvas Rendering.
 - [Fabien Sanglard](https://fabiensanglard.net/) - Sanglard is a Google engineer who writes low-level reviews of famous games and articles on gamedev.
 - [Voxel Space](https://github.com/s-macke/VoxelSpace) - A practical explanation of the 2.5D Voxel Space technique.
+- [Abseil](https://abseil.io) - Open source collection of C++ libraries drawn from Google’s internal codebase. Implements the next C++ standard well ahead of time!
 
 ## Game Engines
 - [Duality 2D](https://www.duality2d.net/) - A modular, highly extensible 2D game engine that provides its own visual editor.
