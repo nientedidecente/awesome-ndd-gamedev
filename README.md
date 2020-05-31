@@ -17,6 +17,7 @@ If you're external to this organization and want to add your own resources, just
 ## Game Engines
 - [Duality 2D](https://www.duality2d.net/) - A modular, highly extensible 2D game engine that provides its own visual editor.
 - [GemRB](https://gemrb.github.io/) - A portable open-source implementation of Bioware’s Infinity Engine.
+- [Defold](https://github.com/defold/defold) - The Defold game engine.
 
 ## Graphics and Sprites
 - [Piskel](https://www.piskelapp.com/) - A free online editor for animated sprites and pixel art.
@@ -27,6 +28,7 @@ If you're external to this organization and want to add your own resources, just
 ## Sounds
 - [Francesco Corrado](https://soundcloud.com/francesco-corrado-846828) - Soundtracks and compositions for games and others.
 - [SFXR](https://www.drpetter.se/project_sfxr.html) - A fast, 8-bit sounds generator.
+- [Gruesome Horro Sounds Effects](https://www.freetousesounds.com/how-to-create-gruesome-horror-sound-effects/) - Sound pack with horror, monsters, growling sounds, etc.
 
 ## Libraries and Other Repos
 - [Strummulu](https://github.com/vikkio88/strummulu) - A small fullstack library to serve web-browser games based on websockets communication.
