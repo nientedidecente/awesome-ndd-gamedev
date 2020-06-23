@@ -14,9 +14,12 @@ If you're external to this organization and want to add your own resources, just
 - [Fabien Sanglard](https://fabiensanglard.net/) - Sanglard is a Google engineer who writes low-level reviews of famous games and articles on gamedev.
 - [Voxel Space](https://github.com/s-macke/VoxelSpace) - A practical explanation of the 2.5D Voxel Space technique.
 - [Abseil](https://abseil.io) - Open source collection of C++ libraries drawn from Google’s internal codebase. Implements the next C++ standard well ahead of time!
+- [Learn with Haxe](https://code.haxe.org/) - Collection of Haxe snippets, examples and tutorials.
+- [Game Technology](http://wiki.ktxsoftware.com/) - A full course about Game Design.
 
 ## Docs and Notes
 - [Note of Phaser 3](https://rexrainbow.github.io/phaser3-rex-notes/docs/site/index.html) - Collection of notes, which also act like a great documentation for Phaser 3.
+- [Unofficial Heaps FAQ](https://gist.github.com/Yanrishatum/ae3725a9e2b45e0766c065e573ed1f24) - A useful FAQ collection about Heaps.
 
 ## Game Engines
 - [Duality 2D](https://www.duality2d.net/) - A modular, highly extensible 2D game engine that provides its own visual editor.
@@ -39,6 +42,8 @@ If you're external to this organization and want to add your own resources, just
 - [Strummulu](https://github.com/vikkio88/strummulu) - A small fullstack library to serve web-browser games based on websockets communication.
 - [Open Source Game Clones](https://osgameclones.com/) - A big list of old-school Open Source Game clones and remakes.
 - [raylib](https://www.raylib.com/index.html) - A simple, easy-to-use, multi-language and spartan library to enjoy videogames programming.
+- [lix](https://github.com/lix-pm/lix.client) - A dependable package manager for Haxe projects.
+- [utest](https://github.com/haxe-utest/utest) - A unit testing library for Haxe.
 
 ## Server
 - [Deno](https://deno.land/v1) - A runtime for executing JavaScript and TypeScript outside of web browser.
